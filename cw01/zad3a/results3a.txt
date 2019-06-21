@@ -1,0 +1,80 @@
+test z biblioteka statyczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.720s, User: 0.300s, System: 0.400s
+srednio zagniezdzony plik
+Real: 0.250s, User: 0.090s, System: 0.150s
+nie zagniezdzony plik
+Real: 0.070s, User: 0.020s, System: 0.030s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.010s, User: 0.000s, System: 0.000s
+
+
+test z biblioteka wspoldzielona 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.710s, User: 0.260s, System: 0.420s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.090s, System: 0.160s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.020s, System: 0.030s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+
+test z biblioteka dynamiczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.690s, User: 0.260s, System: 0.410s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.090s, System: 0.160s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.010s, System: 0.040s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+
+Wszystkie przypadki maja zbliżony czas wykonania oznacza to ze sposob linkowania biblioteki do pliku wykonywalnego w tym przypadku nie mial znaczenia.
+Czasy sa w wiekszosci zerowe, poza pomiarami czasu dla przeszukiwania folderow. Jest to spowodowane wywolywaniem systemowej komendy find.

@@ -1,0 +1,23 @@
+test przeszukiwania katalogow
+bardzo zagniezdzony plik
+Real: 0.670s, User: 0.270s, System: 0.390s
+srednio zagniezdzony plik
+Real: 0.270s, User: 0.090s, System: 0.160s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.020s, System: 0.030s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s

@@ -1,0 +1,110 @@
+TEST SYSTEMOWEJ IMPLEMENTACJI
+Test 1 bajta
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.010s
+Pomiar kopiowania 10000 blokow.
+User: 0.000s, System: 0.020s
+Pomiar sortowania 5000 blokow.
+User: 3.150s, System: 8.190s
+Pomiar sortowania 10000 blokow.
+User: 12.540s, System: 32.620s
+Test 4 bajtow
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.010s
+Pomiar kopiowania 10000 blokow.
+User: 0.000s, System: 0.020s
+Pomiar sortowania 5000 blokow.
+User: 3.160s, System: 8.250s
+Pomiar sortowania 10000 blokow.
+User: 12.740s, System: 32.510s
+Test 512 bajtow
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.010s
+Pomiar kopiowania 10000 blokow.
+User: 0.000s, System: 0.020s
+Pomiar sortowania 5000 blokow.
+User: 3.140s, System: 8.250s
+Pomiar sortowania 10000 blokow.
+User: 12.750s, System: 32.760s
+Test 1024 bajtow
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.010s
+Pomiar kopiowania 10000 blokow.
+User: 0.000s, System: 0.020s
+Pomiar sortowania 5000 blokow.
+User: 3.330s, System: 8.090s
+Pomiar sortowania 10000 blokow.
+User: 12.860s, System: 32.700s
+Test 4096 bajtow
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.020s
+Pomiar kopiowania 10000 blokow.
+User: 0.000s, System: 0.040s
+Pomiar sortowania 5000 blokow.
+User: 3.080s, System: 8.370s
+Pomiar sortowania 10000 blokow.
+User: 12.770s, System: 33.150s
+Test 8192 bajtow
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.030s
+Pomiar kopiowania 10000 blokow.
+User: 0.000s, System: 0.060s
+Pomiar sortowania 5000 blokow.
+User: 3.170s, System: 8.350s
+Pomiar sortowania 10000 blokow.
+User: 12.280s, System: 33.820s
+TEST BIBLIOTECZNEJ IMPLEMENTACJI
+Test 1 bajta
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.000s
+Pomiar kopiowania 10000 blokow.
+User: 0.000s, System: 0.000s
+Pomiar sortowania 5000 blokow.
+User: 2.080s, System: 2.650s
+Pomiar sortowania 10000 blokow.
+User: 8.430s, System: 10.590s
+Test 4 bajtow
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.000s
+Pomiar kopiowania 10000 blokow.
+User: 0.000s, System: 0.000s
+Pomiar sortowania 5000 blokow.
+User: 2.090s, System: 2.650s
+Pomiar sortowania 10000 blokow.
+User: 8.300s, System: 10.740s
+Test 512 bajtow
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.000s
+Pomiar kopiowania 10000 blokow.
+User: 0.000s, System: 0.000s
+Pomiar sortowania 5000 blokow.
+User: 2.030s, System: 2.700s
+Pomiar sortowania 10000 blokow.
+User: 8.210s, System: 10.790s
+Test 1024 bajtow
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.000s
+Pomiar kopiowania 10000 blokow.
+User: 0.000s, System: 0.000s
+Pomiar sortowania 5000 blokow.
+User: 2.140s, System: 2.600s
+Pomiar sortowania 10000 blokow.
+User: 8.270s, System: 10.930s
+Test 4096 bajtow
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.010s
+Pomiar kopiowania 10000 blokow.
+User: 0.010s, System: 0.030s
+Pomiar sortowania 5000 blokow.
+User: 2.100s, System: 2.720s
+Pomiar sortowania 10000 blokow.
+User: 8.540s, System: 10.250s
+Test 8192 bajtow
+Pomiar kopiowania 5000 blokow.
+User: 0.000s, System: 0.040s
+Pomiar kopiowania 10000 blokow.
+User: 0.020s, System: 0.050s
+Pomiar sortowania 5000 blokow.
+User: 2.040s, System: 2.700s
+Pomiar sortowania 10000 blokow.
+User: 8.450s, System: 10.390s

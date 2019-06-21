@@ -1,0 +1,389 @@
+test poziomu -O0
+
+test z biblioteka statyczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.710s, User: 0.250s, System: 0.430s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.100s, System: 0.150s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.010s, System: 0.040s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test z biblioteka wspoldzielona 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.670s, User: 0.270s, System: 0.370s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.100s, System: 0.150s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.010s, System: 0.040s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test z biblioteka dynamiczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.670s, User: 0.260s, System: 0.400s
+srednio zagniezdzony plik
+Real: 0.250s, User: 0.100s, System: 0.150s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.020s, System: 0.030s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.010s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test poziomu -O1
+
+test z biblioteka statyczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.680s, User: 0.270s, System: 0.390s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.100s, System: 0.140s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.010s, System: 0.040s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test z biblioteka wspoldzielona 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.670s, User: 0.260s, System: 0.390s
+srednio zagniezdzony plik
+Real: 0.270s, User: 0.080s, System: 0.170s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.020s, System: 0.030s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test z biblioteka dynamiczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.670s, User: 0.250s, System: 0.400s
+srednio zagniezdzony plik
+Real: 0.250s, User: 0.090s, System: 0.150s
+nie zagniezdzony plik
+Real: 0.070s, User: 0.010s, System: 0.040s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test poziomu -O2
+
+test z biblioteka statyczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.680s, User: 0.260s, System: 0.400s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.090s, System: 0.150s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.010s, System: 0.030s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test z biblioteka wspoldzielona 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.680s, User: 0.270s, System: 0.380s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.100s, System: 0.150s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.010s, System: 0.040s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test z biblioteka dynamiczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.670s, User: 0.250s, System: 0.390s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.100s, System: 0.150s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.010s, System: 0.040s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test poziomu -O3
+
+test z biblioteka statyczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.700s, User: 0.270s, System: 0.410s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.090s, System: 0.160s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.020s, System: 0.030s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test z biblioteka wspoldzielona 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.670s, User: 0.240s, System: 0.410s
+srednio zagniezdzony plik
+Real: 0.250s, User: 0.080s, System: 0.160s
+nie zagniezdzony plik
+Real: 0.050s, User: 0.020s, System: 0.030s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test z biblioteka dynamiczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.670s, User: 0.260s, System: 0.390s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.090s, System: 0.160s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.010s, System: 0.040s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test poziomu -Os
+
+test z biblioteka statyczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.680s, User: 0.270s, System: 0.390s
+srednio zagniezdzony plik
+Real: 0.250s, User: 0.100s, System: 0.140s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.020s, System: 0.030s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test z biblioteka wspoldzielona 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.670s, User: 0.260s, System: 0.390s
+srednio zagniezdzony plik
+Real: 0.250s, User: 0.080s, System: 0.160s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.030s, System: 0.020s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+test z biblioteka dynamiczna 
+
+test przeszukiwania katalogowbardzo zagniezdzony plik
+Real: 0.670s, User: 0.240s, System: 0.410s
+srednio zagniezdzony plik
+Real: 0.260s, User: 0.080s, System: 0.160s
+nie zagniezdzony plik
+Real: 0.060s, User: 0.020s, System: 0.030s
+test zapisu w pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test usuwania blokow z pamieci
+duzy plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+sredni plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+maly plik
+Real: 0.000s, User: 0.000s, System: 0.000s
+test dodawania i usuwania zadanej liczby blokow
+Real: 0.000s, User: 0.000s, System: 0.000s
+
+Zauwzyc mozna, ze wyniki nie roznia sie znaczaco od wynikow uzyskanych w zadaniu 3a. Z otrzymanych danych wynika ze w tym przypadku
+poziom optymalizacji nie mial wplywu na czas wykonania programu, co pokrywa sie z obserwacjami z zadania 3a, gdyz glowna operacja 
+ktora wplywa na czas wykonania jest wywolanie systemowej komendy find, dlatego tez nie zuwazamy roznicy przy zmianie poziomu optymalizajci
+gdyz nie ma on wplywu na wykonanie komend systeoych.

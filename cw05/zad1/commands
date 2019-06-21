@@ -1,0 +1,3 @@
+ls -l | grep a | wc -l
+ls -l | grep total | wc -l
+ls -l | grep marcin | wc -l
